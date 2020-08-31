@@ -1,0 +1,2 @@
+2019,5,5,12.0,work,true
+2011,4,12,344.0,eating out, false

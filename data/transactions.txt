@@ -1,0 +1,2 @@
+2020,8,10,666.0,Cost Sample,false
+2020,8,10,888.0,Income Sample,true
